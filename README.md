@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository
+My Gideon and im a fresher at KNUST.
